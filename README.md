@@ -5,8 +5,6 @@ On my page, I will post different achievments of mine, my skill sets, and more. 
 
 ✉️ **Email**: rydergriffin0727@gmail.com
 
-📞 **Phone**: *812-240-8065*
-
 ## Firstly, a little bit about me! 📊
 I am 14 years old, and I have always had a passion for creating games, software, essentially any sort of program. I first learned I liked to program when I started creating games on the platform *Roblox*. I eventually ended up learning Python within my AP Computer Science Principles classroom (I had an easy time with this as I found the language to be quite similar to Lua, which I had learned creating games on Roblox.)
 
